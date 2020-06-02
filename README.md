@@ -1,5 +1,5 @@
 # PizzaPlanet-Angular
-In this exercise I praciced:
+In this exercise I practiced:
 1. Build and use modules in AngularJS 1.x
 2. Build and use controllers in AngularJS 1.x
 3. Use expressions to render data
